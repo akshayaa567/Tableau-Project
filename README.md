@@ -46,15 +46,7 @@ In this project, I explored:
 
 **Akshaya A**  
 B.Tech – Computer Science & Engineering  
-📫 akshaya567@gmail.com
-
----
-
-## 📁 Repository Contents
-
-Tableau-Superstore-Analysis/
-├── SampleSuperstore.xlsx # Dataset used
-└── README.md # Project overview
+📫 akshaya.iddem@gmail.com
 
 ---
 
