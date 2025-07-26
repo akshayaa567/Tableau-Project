@@ -38,8 +38,6 @@ In this project, I explored:
 
 👉 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/akshaya.a5918/viz/InteractiveDashboard_17183718886190/Dashboard1?publish=yes)
 
-> Replace the above link with your actual Tableau Public dashboard link.
-
 ---
 
 ## 👩‍💻 Author
